@@ -171,25 +171,6 @@ I received my **Doctor of Engineering in Electronic Information** from Fudan Uni
 
 <span class='anchor' id='awards'></span>
 
-# 🏅 Honors and Awards
-
-<div class="timeline">
-<div class="timeline-item"><div class="timeline-year">2026</div><div class="timeline-body">Outstanding Graduate, Fudan University, China</div></div>
-<div class="timeline-item"><div class="timeline-year">2025</div><div class="timeline-body">Best Paper Award, Shanghai Aeronautics Academy, China</div></div>
-<div class="timeline-item"><div class="timeline-year">2023</div><div class="timeline-body">Outstanding Doctoral Student Academic Scholarship, Fudan University, China</div></div>
-<div class="timeline-item"><div class="timeline-year">2022</div><div class="timeline-body">Best Paper Award, Shanghai Aeronautics Academy, China</div></div>
-</div>
-
-# 📖 Educations
-
-<div class="timeline">
-<div class="timeline-item"><div class="timeline-year">Sep 2022 – Jun 2026</div><div class="timeline-body"><strong>Doctor of Engineering, Electronic Information</strong>, Fudan University, China. Dissertation: Performance Degradation Mechanisms and Multiaxial Fatigue Life Prediction Methods of Civil Aircraft Door Mechanism Systems.</div></div>
-<div class="timeline-item"><div class="timeline-year">Sep 2019 – Mar 2022</div><div class="timeline-body"><strong>Master of Aeronautical Engineering</strong>, Northwestern Polytechnical University, China. Dissertation: Design and Analysis of Reliability Test of an Electro-pneumatic Valve.</div></div>
-<div class="timeline-item"><div class="timeline-year">Sep 2014 – Jun 2018</div><div class="timeline-body"><strong>Bachelor of Safety Engineering</strong>, Northwestern Polytechnical University, China. Dissertation: Qualitative Reliability Analysis of an Aircraft Cabin Door Lock System.</div></div>
-</div>
-
-<span class='anchor' id='conferences'></span>
-
 # 🎤 Conferences & Talks
 
 <div class="timeline">
@@ -200,6 +181,27 @@ I received my **Doctor of Engineering in Electronic Information** from Fudan Uni
 </div>
 
 <span class='anchor' id='contact'></span>
+
+/*# 🏅 Honors and Awards*/
+
+/*<div class="timeline">*/
+/*<div class="timeline-item"><div class="timeline-year">2026</div><div class="timeline-body">Outstanding Graduate, Fudan University, China</div></div>*/
+/*<div class="timeline-item"><div class="timeline-year">2025</div><div class="timeline-body">Best Paper Award, Shanghai Aeronautics Academy, China</div></div>*/
+/*<div class="timeline-item"><div class="timeline-year">2023</div><div class="timeline-body">Outstanding Doctoral Student Academic Scholarship, Fudan University, China</div></div>*/
+/*<div class="timeline-item"><div class="timeline-year">2022</div><div class="timeline-body">Best Paper Award, Shanghai Aeronautics Academy, China</div></div>*/
+/*</div>*/
+
+/*# 📖 Educations */
+
+/*<div class="timeline"> */
+/*<div class="timeline-item"><div class="timeline-year">Sep 2022 – Jun 2026</div><div class="timeline-body"><strong>Doctor of Engineering, Electronic Information</strong>, Fudan University, China. Dissertation: Performance Degradation Mechanisms and Multiaxial Fatigue Life Prediction Methods of Civil Aircraft Door Mechanism Systems.</div></div>*/
+/*<div class="timeline-item"><div class="timeline-year">Sep 2019 – Mar 2022</div><div class="timeline-body"><strong>Master of Aeronautical Engineering</strong>, Northwestern Polytechnical University, China. Dissertation: Design and Analysis of Reliability Test of an Electro-pneumatic Valve.</div></div>*/
+/*<div class="timeline-item"><div class="timeline-year">Sep 2014 – Jun 2018</div><div class="timeline-body"><strong>Bachelor of Safety Engineering</strong>, Northwestern Polytechnical University, China. Dissertation: Qualitative Reliability Analysis of an Aircraft Cabin Door Lock System.</div></div>*/
+/*</div>*/
+
+/*<span class='anchor' id='conferences'></span>*/
+
+
 
 # ✉️ Contact
 
