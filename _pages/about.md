@@ -25,13 +25,9 @@ My work has appeared in journals including *International Journal of Fatigue*, *
 
 <div class='paper-box-text' markdown="1">
 
-[Two-Scale Continuum Damage Mechanics Model with Separate Deviatoric and Volumetric Damage for Multiaxial Fatigue Life Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0142112326002203)
+[Two-Scale Continuum Damage Mechanics Model with Separate Deviatoric and Volumetric Damage for Multiaxial Fatigue Life Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0142112326002203) *International Journal of Fatigue*, 2026
 
-*International Journal of Fatigue*, 2026
-
-**Han, Y.-J.**, Li, C.-F., & Fei, C.-W.
-
-[**PDF**](files/IJF.pdf)
+**Han, Y.-J.**, Li, C.-F., & Fei, C.-W. [**PDF**](files/IJF.pdf)
 
 - Replaces the conventional single scalar damage variable with independently evolving deviatoric and volumetric damage variables, enabling unified multiaxial fatigue-life prediction alongside full damage-trajectory output and mechanism-resolved diagnostics.
 </div>
@@ -40,13 +36,10 @@ My work has appeared in journals including *International Journal of Fatigue*, *
 
 <div class='paper-box-text' markdown="1">
 
-Multi-Source Reliability Evaluation Method of Aircraft Mechanism Performance Considering Wear–Plasticity Accumulative Damage
+[Multi-Source Reliability Evaluation Method of Aircraft Mechanism Performance Considering Wear–Plasticity Accumulative Damage] 
+(https://www.sciencedirect.com/science/article/pii/S1350630725011069) *Engineering Failure Analysis*, 2026
 
-*Engineering Failure Analysis*, 2026
-
-**Han, Y.-J.**, Zheng, B.-Y., & Fei, C.-W.
-
-[**PDF**](files/efa.pdf)
+**Han, Y.-J.**, Zheng, B.-Y., & Fei, C.-W. [**PDF**](files/efa.pdf)
 
 - Proposes a multi-source reliability evaluation method for aircraft mechanism performance that accounts for coupled wear and cyclic-plasticity accumulative damage.
 </div>
@@ -55,13 +48,9 @@ Multi-Source Reliability Evaluation Method of Aircraft Mechanism Performance Con
 
 <div class='paper-box-text' markdown="1">
 
-CDM–Bayesian Framework for Multiscale Fatigue Life Prediction of Aircraft Mechanisms with Rigid–Flexible Coupling
+[CDM–Bayesian Framework for Multiscale Fatigue Life Prediction of Aircraft Mechanisms with Rigid–Flexible Coupling](https://www.sciencedirect.com/science/article/pii/S1270963826002956) *Aerospace Science and Technology*, 2026
 
-*Aerospace Science and Technology*, 2026
-
-**Han, Y.-J.**, Sun, Y.-P., & Fei, C.-W.
-
-[**PDF**](files/ast.pdf)
+**Han, Y.-J.**, Sun, Y.-P., & Fei, C.-W. [**PDF**](files/ast.pdf)
 
 - Couples continuum damage mechanics with Bayesian inference to deliver multiscale fatigue-life prediction for aircraft mechanisms exhibiting rigid–flexible coupling.
 </div>
@@ -70,13 +59,9 @@ CDM–Bayesian Framework for Multiscale Fatigue Life Prediction of Aircraft Mech
 
 <div class='paper-box-text' markdown="1">
 
-[Deep Learning-Based Modeling Method for Probabilistic LCF Life Prediction of Turbine Blisk](https://www.sciencedirect.com/science/article/pii/S2212540X23000548)
+[Deep Learning-Based Modeling Method for Probabilistic LCF Life Prediction of Turbine Blisk](https://www.sciencedirect.com/science/article/pii/S2212540X23000548) *Propulsion and Power Research*, 13(1), 12–25, 2024
 
-*Propulsion and Power Research*, 13(1), 12–25, 2024
-
-Fei, C.-W., **Han, Y.-J.**, Wen, J.-R., Li, C., Han, L., & Choy, Y.-S.
-
-[**PDF**](files/deeplearningppr.pdf)
+Fei, C.-W., **Han, Y.-J.**, Wen, J.-R., Li, C., Han, L., & Choy, Y.-S. [**PDF**](files/deeplearningppr.pdf)
 
 - Introduces a convolutional–deep neural network (C-DNN) that combines CNN feature extraction with DNN regression for probabilistic low-cycle-fatigue (LCF) life prediction of turbine blisks under uncertain operating parameters.
 </div>
@@ -85,18 +70,14 @@ Fei, C.-W., **Han, Y.-J.**, Wen, J.-R., Li, C., Han, L., & Choy, Y.-S.
 
 <div class='paper-box-text' markdown="1">
 
-[Structural Design of Aeroengine Radiators: State of the Art and Perspectives](https://www.sciencedirect.com/science/article/pii/S2212540X24000543)
+[Structural Design of Aeroengine Radiators: State of the Art and Perspectives](https://www.sciencedirect.com/science/article/pii/S2212540X24000543) *Propulsion and Power Research* (Review), 13(3), 319–334, 2024
 
-*Propulsion and Power Research* (Review), 13(3), 319–334, 2024
-
-Fei, C.-W., Li, C., Lin, J.-Y., **Han, Y.-J.**, Choy, Y.-S., & Chen, C.-H.
-
-[**PDF**](files/reviewppr.pdf)
+Fei, C.-W., Li, C., Lin, J.-Y., **Han, Y.-J.**, Choy, Y.-S., & Chen, C.-H. [**PDF**](files/reviewppr.pdf)
 
 - A comprehensive review of structural design and layout-optimization methods for aeroengine radiators, covering existing radiator structures, optimization theory, and future directions such as smart materials and lattice structures for lightweight thermal management.
 </div>
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2026* Outstanding Graduate, Fudan University, China
 - *2025* Best Paper Award, Shanghai Aeronautics Academy, China
 - *2023* Outstanding Doctoral Student Academic Scholarship, Fudan University, China
