@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yaojia Han"
-excerpt: "Yaojia Han - Postdoctoral Research Fellow at the Institute of Computational Mechanics × AI, Fudan University"
+title: ""
+excerpt: "Postdoctoral Research Fellow at the Institute of Computational Mechanics × AI, Fudan University"
 author_profile: false
 sitemap: true
 redirect_from:
