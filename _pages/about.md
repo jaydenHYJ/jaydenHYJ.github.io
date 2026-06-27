@@ -19,7 +19,7 @@ My recent work integrates continuum damage mechanics, Bayesian inference, surrog
 
 My work has appeared in journals including *International Journal of Fatigue*, *Aerospace Science and Technology*, *Engineering Failure Analysis*, and *Propulsion and Power Research*. I welcome research collaborations in computational mechanics, fatigue and fracture, reliability analysis, uncertainty quantification, finite element modeling, and AI-assisted engineering simulation.
 
-📄 [**Curriculum Vitae (PDF)**](files/CJ_YJH.pdf)
+📄 [**Curriculum Vitae (PDF)**](files/CV_YJH.pdf)
 
 # 📝 Publications
 
@@ -31,7 +31,7 @@ My work has appeared in journals including *International Journal of Fatigue*, *
 
 **Han, Y.-J.**, Li, C.-F., & Fei, C.-W.
 
-[**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0142112326002203)
+[**PDF**](files/IJF.pdf)
 
 - Replaces the conventional single scalar damage variable with independently evolving deviatoric and volumetric damage variables, enabling unified multiaxial fatigue-life prediction alongside full damage-trajectory output and mechanism-resolved diagnostics.
 </div>
@@ -44,7 +44,7 @@ Multi-Source Reliability Evaluation Method of Aircraft Mechanism Performance Con
 
 **Han, Y.-J.**, Zheng, B.-Y., & Fei, C.-W.
 
-**PDF** *(link to be added)*
+[**PDF**](files/efa.pdf)
 
 - Proposes a multi-source reliability evaluation method for aircraft mechanism performance that accounts for coupled wear and cyclic-plasticity accumulative damage.
 </div>
@@ -57,7 +57,7 @@ CDM–Bayesian Framework for Multiscale Fatigue Life Prediction of Aircraft Mech
 
 **Han, Y.-J.**, Sun, Y.-P., & Fei, C.-W.
 
-**PDF** *(link to be added)*
+[**PDF**](files/ast.pdf)
 
 - Couples continuum damage mechanics with Bayesian inference to deliver multiscale fatigue-life prediction for aircraft mechanisms exhibiting rigid–flexible coupling.
 </div>
@@ -70,7 +70,7 @@ CDM–Bayesian Framework for Multiscale Fatigue Life Prediction of Aircraft Mech
 
 Fei, C.-W., **Han, Y.-J.**, Wen, J.-R., Li, C., Han, L., & Choy, Y.-S.
 
-[**PDF**](https://www.sciencedirect.com/science/article/pii/S2212540X23000548)
+[**PDF**](files/deeplearningppr.pdf)
 
 - Introduces a convolutional–deep neural network (C-DNN) that combines CNN feature extraction with DNN regression for probabilistic low-cycle-fatigue (LCF) life prediction of turbine blisks under uncertain operating parameters.
 </div>
@@ -83,7 +83,7 @@ Fei, C.-W., **Han, Y.-J.**, Wen, J.-R., Li, C., Han, L., & Choy, Y.-S.
 
 Fei, C.-W., Li, C., Lin, J.-Y., **Han, Y.-J.**, Choy, Y.-S., & Chen, C.-H.
 
-[**PDF**](https://www.sciencedirect.com/science/article/pii/S2212540X24000543)
+[**PDF**](files/reviewppr.pdf)
 
 - A comprehensive review of structural design and layout-optimization methods for aeroengine radiators, covering existing radiator structures, optimization theory, and future directions such as smart materials and lattice structures for lightweight thermal management.
 </div>
@@ -101,6 +101,6 @@ Fei, C.-W., Li, C., Lin, J.-Y., **Han, Y.-J.**, Choy, Y.-S., & Chen, C.-H.
 
 # 🎤 Conferences & Talks
 - *2026*, **A data-driven fatigue reliability assessment of motion mechanisms based on surrogate models**, 11th International Conference on Engineering Failure Analysis (ICEFA).
-- *2022*, **Influence of temperature on fatigue life of lock test mechanism**, 11th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE), pp. 1599–1606.
-- *2021*, **A neural network based approach for reliability analysis of UAV flapping wing**, 5th IEEE International Conference on Sensing, Diagnostics, Prognostics, and Control (SDPC), pp. 42–47.
-- *2021*, **Design and dynamic analysis of random vibration test fixture for aerospace valve**, Global Reliability and Prognostics and Health Management (PHM-Nanjing), pp. 1–6.
+- *2022*, **Influence of temperature on fatigue life of lock test mechanism**, 11th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE), pp. 1599–1606. [**PDF**](files/Influence_of_temperature_on_fatigue_life_of_lock_test_mechanism.pdf)
+- *2021*, **A neural network based approach for reliability analysis of UAV flapping wing**, 5th IEEE International Conference on Sensing, Diagnostics, Prognostics, and Control (SDPC), pp. 42–47. [**PDF**](files/A_Neural_Network_Based_Approach_for_Reliability_Analysis_of_UAV_Flapping_Wing.pdf)
+- *2021*, **Design and dynamic analysis of random vibration test fixture for aerospace valve**, Global Reliability and Prognostics and Health Management (PHM-Nanjing), pp. 1–6. [**PDF**](files/2021 Global Reliability and Prognostics and Health Management (PHM-Nanjing).pdf)
