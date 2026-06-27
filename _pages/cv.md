@@ -7,58 +7,38 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<div style="margin-top: 10px; margin-bottom: 14px;">
+  <a href="/files/CV_YJH.pdf" target="_blank" style="
+    display: inline-block;
+    background: #1f628d;
+    color: #ffffff;
+    padding: 9px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.98rem;
+  ">📄 Download CV (PDF)</a>
+</div>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<div style="
+  width: 100%;
+  height: 900px;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+">
+  <iframe 
+    src="/files/CV_YJH.pdf#view=FitH" 
+    width="100%" 
+    height="100%" 
+    style="border: none;"
+    title="Yaojia Han CV">
+    <p>Your browser doesn't support embedded PDFs. 
+    <a href="/files/CV_YJH.pdf" target="_blank">Click here to download the PDF</a>.</p>
+  </iframe>
+</div>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<p style="font-size: 0.9rem; color: #888; margin-top: 12px; text-align: center;">
+  Can't see the CV? <a href="/files/CV_JM.pdf" target="_blank">Open it in a new tab</a>.
+</p>
