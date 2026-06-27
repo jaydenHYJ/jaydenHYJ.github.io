@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <style>
-/* ===== body text: justified, comfortable size ===== */
+/* ===== body text ===== */
 .about-text { text-align: justify; font-size: 0.95rem; line-height: 1.65; }
 .cv-button {
   display: inline-block; margin-top: .4em;
@@ -47,8 +47,19 @@ redirect_from:
 }
 .pub-pdf:hover { background: #2a7ae2; color: #fff; }
 
-/* ===== honors / education / talks: tighter, justified ===== */
-.tidy-list li { font-size: .9rem; line-height: 1.5; margin-bottom: .35em; text-align: justify; }
+/* ===== timeline rows (honors / education / talks) ===== */
+.timeline { margin-top: .5em; }
+.timeline-item {
+  display: flex; flex-wrap: wrap; gap: 6px 16px;
+  padding: .6em 0; border-bottom: 1px solid #f0f0f0;
+}
+.timeline-item:last-child { border-bottom: none; }
+.timeline-year {
+  flex: 0 0 140px; font-size: .8rem; font-weight: 600;
+  color: #2a7ae2; white-space: nowrap;
+}
+.timeline-body { flex: 1 1 320px; font-size: .9rem; line-height: 1.55; color: #333; text-align: justify; }
+.timeline-body strong { color: #000; }
 </style>
 
 <span class='anchor' id='about-me'></span>
@@ -114,26 +125,32 @@ I received my **Doctor of Engineering in Electronic Information** from Fudan Uni
 <span class='anchor' id='awards'></span>
 
 # 🏅 Honors and Awards
-{: .tidy-list}
-- *2026* Outstanding Graduate, Fudan University, China
-- *2025* Best Paper Award, Shanghai Aeronautics Academy, China
-- *2023* Outstanding Doctoral Student Academic Scholarship, Fudan University, China
-- *2022* Best Paper Award, Shanghai Aeronautics Academy, China
+
+<div class="timeline">
+<div class="timeline-item"><div class="timeline-year">2026</div><div class="timeline-body">Outstanding Graduate, Fudan University, China</div></div>
+<div class="timeline-item"><div class="timeline-year">2025</div><div class="timeline-body">Best Paper Award, Shanghai Aeronautics Academy, China</div></div>
+<div class="timeline-item"><div class="timeline-year">2023</div><div class="timeline-body">Outstanding Doctoral Student Academic Scholarship, Fudan University, China</div></div>
+<div class="timeline-item"><div class="timeline-year">2022</div><div class="timeline-body">Best Paper Award, Shanghai Aeronautics Academy, China</div></div>
+</div>
 
 # 📖 Educations
-{: .tidy-list}
-- *Sep 2022 – Jun 2026*, **Doctor of Engineering, Electronic Information**, Fudan University, China. Dissertation: Performance Degradation Mechanisms and Multiaxial Fatigue Life Prediction Methods of Civil Aircraft Door Mechanism Systems.
-- *Sep 2019 – Mar 2022*, **Master of Aeronautical Engineering**, Northwestern Polytechnical University, China. Dissertation: Design and Analysis of Reliability Test of an Electro-pneumatic Valve.
-- *Sep 2014 – Jun 2018*, **Bachelor of Safety Engineering**, Northwestern Polytechnical University, China. Dissertation: Qualitative Reliability Analysis of an Aircraft Cabin Door Lock System.
+
+<div class="timeline">
+<div class="timeline-item"><div class="timeline-year">Sep 2022 – Jun 2026</div><div class="timeline-body"><strong>Doctor of Engineering, Electronic Information</strong>, Fudan University, China. Dissertation: Performance Degradation Mechanisms and Multiaxial Fatigue Life Prediction Methods of Civil Aircraft Door Mechanism Systems.</div></div>
+<div class="timeline-item"><div class="timeline-year">Sep 2019 – Mar 2022</div><div class="timeline-body"><strong>Master of Aeronautical Engineering</strong>, Northwestern Polytechnical University, China. Dissertation: Design and Analysis of Reliability Test of an Electro-pneumatic Valve.</div></div>
+<div class="timeline-item"><div class="timeline-year">Sep 2014 – Jun 2018</div><div class="timeline-body"><strong>Bachelor of Safety Engineering</strong>, Northwestern Polytechnical University, China. Dissertation: Qualitative Reliability Analysis of an Aircraft Cabin Door Lock System.</div></div>
+</div>
 
 <span class='anchor' id='conferences'></span>
 
 # 🎤 Conferences & Talks
-{: .tidy-list}
-- *2026*, **A data-driven fatigue reliability assessment of motion mechanisms based on surrogate models**, 11th International Conference on Engineering Failure Analysis (ICEFA).
-- *2022*, **Influence of temperature on fatigue life of lock test mechanism**, 11th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE), pp. 1599–1606. [PDF](files/Influence_of_temperature_on_fatigue_life_of_lock_test_mechanism.pdf)
-- *2021*, **A neural network based approach for reliability analysis of UAV flapping wing**, 5th IEEE International Conference on Sensing, Diagnostics, Prognostics, and Control (SDPC), pp. 42–47. [PDF](files/A_Neural_Network_Based_Approach_for_Reliability_Analysis_of_UAV_Flapping_Wing.pdf)
-- *2021*, **Design and dynamic analysis of random vibration test fixture for aerospace valve**, Global Reliability and Prognostics and Health Management (PHM-Nanjing), pp. 1–6. [PDF](files/2021%20Global%20Reliability%20and%20Prognostics%20and%20Health%20Management%20%28PHM-Nanjing%29.pdf)
+
+<div class="timeline">
+<div class="timeline-item"><div class="timeline-year">2026</div><div class="timeline-body"><strong>A data-driven fatigue reliability assessment of motion mechanisms based on surrogate models</strong>, 11th International Conference on Engineering Failure Analysis (ICEFA).</div></div>
+<div class="timeline-item"><div class="timeline-year">2022</div><div class="timeline-body"><strong>Influence of temperature on fatigue life of lock test mechanism</strong>, 11th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE), pp. 1599–1606. &nbsp;<a class="pub-pdf" href="files/Influence_of_temperature_on_fatigue_life_of_lock_test_mechanism.pdf">PDF</a></div></div>
+<div class="timeline-item"><div class="timeline-year">2021</div><div class="timeline-body"><strong>A neural network based approach for reliability analysis of UAV flapping wing</strong>, 5th IEEE International Conference on Sensing, Diagnostics, Prognostics, and Control (SDPC), pp. 42–47. &nbsp;<a class="pub-pdf" href="files/A_Neural_Network_Based_Approach_for_Reliability_Analysis_of_UAV_Flapping_Wing.pdf">PDF</a></div></div>
+<div class="timeline-item"><div class="timeline-year">2021</div><div class="timeline-body"><strong>Design and dynamic analysis of random vibration test fixture for aerospace valve</strong>, Global Reliability and Prognostics and Health Management (PHM-Nanjing), pp. 1–6. &nbsp;<a class="pub-pdf" href="files/2021%20Global%20Reliability%20and%20Prognostics%20and%20Health%20Management%20%28PHM-Nanjing%29.pdf">PDF</a></div></div>
+</div>
 
 <span class='anchor' id='contact'></span>
 
@@ -153,64 +170,21 @@ Feel free to send me a message. Filling out this form will open your email clien
 <form onsubmit="sendContactEmail(event)" style="display:flex; flex-direction:column; gap:14px;">
   <div>
     <label for="contact-name" style="display:block; font-size:0.9rem; color:#555; margin-bottom:4px; font-weight:500;">Name</label>
-    <input type="text" id="contact-name" required style="
-      width: 100%;
-      padding: 9px 12px;
-      font-size: 0.95rem;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-      box-sizing: border-box;
-      font-family: inherit;
-    " />
+    <input type="text" id="contact-name" required style="width:100%; padding:9px 12px; font-size:0.95rem; border:1px solid #ddd; border-radius:6px; box-sizing:border-box; font-family:inherit;" />
   </div>
   <div>
     <label for="contact-email" style="display:block; font-size:0.9rem; color:#555; margin-bottom:4px; font-weight:500;">Your Email</label>
-    <input type="email" id="contact-email" required style="
-      width: 100%;
-      padding: 9px 12px;
-      font-size: 0.95rem;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-      box-sizing: border-box;
-      font-family: inherit;
-    " />
+    <input type="email" id="contact-email" required style="width:100%; padding:9px 12px; font-size:0.95rem; border:1px solid #ddd; border-radius:6px; box-sizing:border-box; font-family:inherit;" />
   </div>
   <div>
     <label for="contact-subject" style="display:block; font-size:0.9rem; color:#555; margin-bottom:4px; font-weight:500;">Subject</label>
-    <input type="text" id="contact-subject" placeholder="(optional)" style="
-      width: 100%;
-      padding: 9px 12px;
-      font-size: 0.95rem;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-      box-sizing: border-box;
-      font-family: inherit;
-    " />
+    <input type="text" id="contact-subject" placeholder="(optional)" style="width:100%; padding:9px 12px; font-size:0.95rem; border:1px solid #ddd; border-radius:6px; box-sizing:border-box; font-family:inherit;" />
   </div>
   <div>
     <label for="contact-message" style="display:block; font-size:0.9rem; color:#555; margin-bottom:4px; font-weight:500;">Message</label>
-    <textarea id="contact-message" rows="5" required style="
-      width: 100%;
-      padding: 9px 12px;
-      font-size: 0.95rem;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-      box-sizing: border-box;
-      font-family: inherit;
-      resize: vertical;
-    "></textarea>
+    <textarea id="contact-message" rows="5" required style="width:100%; padding:9px 12px; font-size:0.95rem; border:1px solid #ddd; border-radius:6px; box-sizing:border-box; font-family:inherit; resize:vertical;"></textarea>
   </div>
-  <button type="submit" style="
-    background: #2a7ae2;
-    color: #ffffff;
-    border: none;
-    padding: 11px 24px;
-    border-radius: 6px;
-    font-size: 1rem;
-    font-weight: 600;
-    cursor: pointer;
-    align-self: flex-start;
-  ">✉️ Send</button>
+  <button type="submit" style="background:#2a7ae2; color:#ffffff; border:none; padding:11px 24px; border-radius:6px; font-size:1rem; font-weight:600; cursor:pointer; align-self:flex-start;">✉️ Send</button>
 </form>
 </div>
 <script>
