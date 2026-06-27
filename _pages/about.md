@@ -1,13 +1,11 @@
 ---
-
 permalink: /
-title: "About"
+title: ""
+layout: single
 author_profile: true
-redirect_from:
-
-* /about/
-* /about.html
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a Postdoctoral Research Fellow at the Institute of Computational Mechanics X AI, Fudan University. My research focuses on computational mechanics, fatigue life prediction, uncertainty quantification, machine learning for engineering, and finite element analysis. I am particularly interested in developing physics-informed and data-driven methods for reliability assessment, performance degradation analysis, and fatigue life prediction of complex engineering systems.
