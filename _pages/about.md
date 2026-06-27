@@ -169,7 +169,7 @@ I received my **Doctor of Engineering in Electronic Information** from Fudan Uni
 
 </div>
 
-<span class='anchor' id='awards'></span>
+<span class='anchor' id='conferences'></span>
 
 # 🎤 Conferences & Talks
 
@@ -180,4 +180,3 @@ I received my **Doctor of Engineering in Electronic Information** from Fudan Uni
 <div class="timeline-item"><div class="timeline-year">2021</div><div class="timeline-body"><strong>Design and dynamic analysis of random vibration test fixture for aerospace valve</strong>, Global Reliability and Prognostics and Health Management (PHM-Nanjing), pp. 1–6. &nbsp;<a class="pub-pdf" href="files/2021%20Global%20Reliability%20and%20Prognostics%20and%20Health%20Management%20%28PHM-Nanjing%29.pdf">PDF</a></div></div>
 </div>
 
-<span class='anchor' id='contact'></span>
