@@ -10,4 +10,6 @@ main:
   - title: "Awards"
     url: /#awards
   - title: "CV"
-    url: /files/CV_YJH.pdf
+    url: /cv/
+  - title: "Contact"
+    url: /#contact
