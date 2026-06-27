@@ -105,7 +105,7 @@ I received my **Doctor of Engineering in Electronic Information** from Fudan Uni
 <div class="social-row">
 <a class="social-chip" href="mailto:yjhan@fudan.edu.cn">✉ Email</a>
 <a class="social-chip" href="https://scholar.google.com/citations?user=_A4AJTIAAAAJ&hl=zh-CN">🎓 Google Scholar</a>
-<a class="social-chip orcid" href="https://orcid.org/0009-0003-3525-6735">🆔 ORCID 0009-0003-3525-6735</a>
+<a class="social-chip orcid" href="https://orcid.org/0009-0003-3525-6735">🆔 ORCID</a>
 <a class="social-chip" href="https://github.com/jaydenHYJ">💻 GitHub</a>
 <a class="cv-button" href="files/CV_YJH.pdf">📄 CV</a>
 </div>
