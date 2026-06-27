@@ -23,72 +23,69 @@ My work has appeared in journals including *International Journal of Fatigue*, *
 
 # 📝 Publications
 
-<!--
-  Thumbnails: put a small image (PNG/JPG, ~4:3) in /images/ and update each src.
-  No image yet? Point the src at images/500x300.png (ships with the template).
-  Citation counts: to show live Google Scholar counts like the reference site,
-  add  <strong><span class='show_paper_citations' data='YOUR_PAPER_ID'></span></strong>
-  after the PDF link, and enable the Scholar crawler GitHub Action.
--->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Fatigue</div><img src='images/pub_two_scale_cdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Two-Scale Continuum Damage Mechanics Model with Separate Deviatoric and Volumetric Damage for Multiaxial Fatigue Life Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0142112326002203)
 
-**Han, Y.-J.**, Li, C.-F., & Fei, C.-W. *International Journal of Fatigue*, 2026.
+*International Journal of Fatigue*, 2026
+
+**Han, Y.-J.**, Li, C.-F., & Fei, C.-W.
 
 [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0142112326002203)
--   Replaces the conventional single scalar damage variable with independently evolving deviatoric and volumetric damage variables, enabling unified multiaxial fatigue-life prediction alongside full damage-trajectory output and mechanism-resolved diagnostics.
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerosp. Sci. Technol.</div><img src='images/pub_cdm_bayesian.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-CDM–Bayesian Framework for Multiscale Fatigue Life Prediction of Aircraft Mechanisms with Rigid–Flexible Coupling
-
-**Han, Y.-J.**, Sun, Y.-P., & Fei, C.-W. *Aerospace Science and Technology*, 2026.
-
-**PDF** *(link to be added)*
--   Couples continuum damage mechanics with Bayesian inference to deliver multiscale fatigue-life prediction for aircraft mechanisms exhibiting rigid–flexible coupling.
-</div>
+- Replaces the conventional single scalar damage variable with independently evolving deviatoric and volumetric damage variables, enabling unified multiaxial fatigue-life prediction alongside full damage-trajectory output and mechanism-resolved diagnostics.
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Eng. Fail. Anal.</div><img src='images/pub_multisource_reliability.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-Source Reliability Evaluation Method of Aircraft Mechanism Performance Considering Wear–Plasticity Accumulative Damage
 
-**Han, Y.-J.**, Zheng, B.-Y., & Fei, C.-W. *Engineering Failure Analysis*, 2026.
+*Engineering Failure Analysis*, 2026
+
+**Han, Y.-J.**, Zheng, B.-Y., & Fei, C.-W.
 
 **PDF** *(link to be added)*
--   Proposes a multi-source reliability evaluation method for aircraft mechanism performance that accounts for coupled wear and cyclic-plasticity accumulative damage.
-</div>
+
+- Proposes a multi-source reliability evaluation method for aircraft mechanism performance that accounts for coupled wear and cyclic-plasticity accumulative damage.
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Propuls. Power Res.</div><img src='images/pub_lcf_blisk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CDM–Bayesian Framework for Multiscale Fatigue Life Prediction of Aircraft Mechanisms with Rigid–Flexible Coupling
+
+*Aerospace Science and Technology*, 2026
+
+**Han, Y.-J.**, Sun, Y.-P., & Fei, C.-W.
+
+**PDF** *(link to be added)*
+
+- Couples continuum damage mechanics with Bayesian inference to deliver multiscale fatigue-life prediction for aircraft mechanisms exhibiting rigid–flexible coupling.
+</div>
+
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning-Based Modeling Method for Probabilistic LCF Life Prediction of Turbine Blisk](https://www.sciencedirect.com/science/article/pii/S2212540X23000548)
 
-Fei, C.-W., **Han, Y.-J.**, Wen, J.-R., Li, C., Han, L., & Choy, Y.-S. *Propulsion and Power Research*, 13(1), 12–25, 2024.
+*Propulsion and Power Research*, 13(1), 12–25, 2024
+
+Fei, C.-W., **Han, Y.-J.**, Wen, J.-R., Li, C., Han, L., & Choy, Y.-S.
 
 [**PDF**](https://www.sciencedirect.com/science/article/pii/S2212540X23000548)
--   Introduces a convolutional–deep neural network (C-DNN) that combines CNN feature extraction with DNN regression for probabilistic low-cycle-fatigue (LCF) life prediction of turbine blisks under uncertain operating parameters.
-</div>
+
+- Introduces a convolutional–deep neural network (C-DNN) that combines CNN feature extraction with DNN regression for probabilistic low-cycle-fatigue (LCF) life prediction of turbine blisks under uncertain operating parameters.
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Review · Propuls. Power Res.</div><img src='images/pub_radiator_review.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structural Design of Aeroengine Radiators: State of the Art and Perspectives](https://www.sciencedirect.com/science/article/pii/S2212540X24000543)
 
-Fei, C.-W., Li, C., Lin, J.-Y., **Han, Y.-J.**, Choy, Y.-S., & Chen, C.-H. *Propulsion and Power Research* (Review), 13(3), 319–334, 2024.
+*Propulsion and Power Research* (Review), 13(3), 319–334, 2024
+
+Fei, C.-W., Li, C., Lin, J.-Y., **Han, Y.-J.**, Choy, Y.-S., & Chen, C.-H.
 
 [**PDF**](https://www.sciencedirect.com/science/article/pii/S2212540X24000543)
--   A comprehensive review of structural design and layout-optimization methods for aeroengine radiators, covering existing radiator structures, optimization theory, and future directions such as smart materials and lattice structures for lightweight thermal management.
-</div>
+
+- A comprehensive review of structural design and layout-optimization methods for aeroengine radiators, covering existing radiator structures, optimization theory, and future directions such as smart materials and lattice structures for lightweight thermal management.
 </div>
 
 # 🎖 Honors and Awards
