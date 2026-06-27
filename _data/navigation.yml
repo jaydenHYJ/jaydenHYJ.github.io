@@ -8,8 +8,8 @@ main:
   - title: "Conferences"
     url: /#conferences
   - title: "Awards"
-    url: /#awards
+    url: /awards/
   - title: "CV"
     url: /cv/
   - title: "Contact"
-    url: /#contact
+    url: /contact
