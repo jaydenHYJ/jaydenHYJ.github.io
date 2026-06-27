@@ -14,7 +14,7 @@ repository               : "jaydenHYJ/jaydenHYJ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.jpeg"
   name             : "Yaojia (Jayden) Han"
   bio              : "Postdoc Research Fellow at Fudan University"
   location         : "Shanghai"
