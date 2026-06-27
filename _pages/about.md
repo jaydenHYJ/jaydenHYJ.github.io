@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "Postdoctoral Research Fellow at the Institute of Computational Mechanics × AI, Fudan University"
+title: "Yaojia Han"
+excerpt: "Yaojia Han - Postdoctoral Research Fellow at the Institute of Computational Mechanics × AI, Fudan University"
 author_profile: false
 sitemap: true
 redirect_from:
@@ -36,6 +36,8 @@ redirect_from:
   border: 1px solid var(--fd-blue); color: var(--fd-blue);
 }
 .social-chip:hover { background: var(--fd-blue); color: #fff; }
+.social-chip.orcid { border-color: #A6CE39; color: #5e7d11; }
+.social-chip.orcid:hover { background: #A6CE39; color: #fff; }
 .cv-button {
   display: inline-block; margin-top: .2em;
   font-size: .82rem; font-weight: 600;
@@ -87,7 +89,7 @@ redirect_from:
 
 <div class="profile-header">
 
-<img class="profile-pic" src="images/profile.png" alt="Yaojia Han" />
+<img class="profile-pic" src="/images/profile.jpeg" alt="Yaojia Han" />
 
 <div class="profile-name">Yaojia Han</div>
 <div class="profile-role">Postdoctoral Research Fellow · Fudan University</div>
@@ -102,7 +104,8 @@ I received my **Doctor of Engineering in Electronic Information** from Fudan Uni
 
 <div class="social-row">
 <a class="social-chip" href="mailto:yjhan@fudan.edu.cn">✉ Email</a>
-<a class="social-chip" href="https://scholar.google.com/citations?user=YOUR_ID">🎓 Google Scholar</a>
+<a class="social-chip" href="https://scholar.google.com/citations?user=_A4AJTIAAAAJ&hl=zh-CN">🎓 Google Scholar</a>
+<a class="social-chip orcid" href="https://orcid.org/0009-0003-3525-6735">🆔 ORCID 0009-0003-3525-6735</a>
 <a class="social-chip" href="https://github.com/jaydenHYJ">💻 GitHub</a>
 <a class="cv-button" href="files/CV_YJH.pdf">📄 CV</a>
 </div>
