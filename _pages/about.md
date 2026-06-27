@@ -55,17 +55,15 @@ redirect_from:
 
 <div class="about-text" markdown="1">
 
-I am a **Postdoctoral Research Fellow** at the **Institute of Computational Mechanics × AI, Fudan University**. My research focuses on computational mechanics, fatigue life prediction, uncertainty quantification, machine learning for engineering, and finite element analysis. I am particularly interested in developing physics-informed and data-driven methods for reliability assessment, performance degradation analysis, and fatigue life prediction of complex engineering systems.
+I am a **Postdoctoral Research Fellow** at the **Institute of Computational Mechanics × AI, Fudan University**. My research develops physics-informed and data-driven methods for fatigue life prediction, reliability assessment, and performance degradation analysis of complex engineering systems, combining computational mechanics, uncertainty quantification, machine learning, and finite element analysis.
 
-I received my **Doctor of Engineering in Electronic Information** from Fudan University in 2026. My doctoral research addressed the performance degradation mechanisms and multiaxial fatigue life prediction methods of civil aircraft door mechanism systems. Before joining Fudan University, I received my **Master of Aeronautical Engineering** (2022) and **Bachelor of Safety Engineering** (2018) from Northwestern Polytechnical University.
-
-My recent work integrates continuum damage mechanics, Bayesian inference, surrogate modeling, multibody dynamics, and finite element simulation to model fatigue damage and reliability under complex loading and multi-source uncertainty. My secondary interests include composite materials, progressive damage simulation, additively manufactured structures, defect-tolerant design, and reliability analysis of aerospace mechanisms.
-
-My work has appeared in journals including *International Journal of Fatigue*, *Aerospace Science and Technology*, *Engineering Failure Analysis*, and *Propulsion and Power Research*. I welcome research collaborations in computational mechanics, fatigue and fracture, reliability analysis, uncertainty quantification, finite element modeling, and AI-assisted engineering simulation.
+I received my **Doctor of Engineering in Electronic Information** from Fudan University in 2026, with a **Master of Aeronautical Engineering** (2022) and a **Bachelor of Safety Engineering** (2018) from Northwestern Polytechnical University. My work has appeared in journals including *International Journal of Fatigue*, *Aerospace Science and Technology*, *Engineering Failure Analysis*, and *Propulsion and Power Research*. I welcome collaborations in fatigue and fracture, reliability analysis, uncertainty quantification, and AI-assisted engineering simulation.
 
 </div>
 
 <a class="cv-button" href="files/CV_YJH.pdf">📄 Curriculum Vitae (PDF)</a>
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
@@ -113,6 +111,8 @@ My work has appeared in journals including *International Journal of Fatigue*, *
 
 </div>
 
+<span class='anchor' id='awards'></span>
+
 # 🏅 Honors and Awards
 {: .tidy-list}
 - *2026* Outstanding Graduate, Fudan University, China
@@ -125,6 +125,8 @@ My work has appeared in journals including *International Journal of Fatigue*, *
 - *Sep 2022 – Jun 2026*, **Doctor of Engineering, Electronic Information**, Fudan University, China. Dissertation: Performance Degradation Mechanisms and Multiaxial Fatigue Life Prediction Methods of Civil Aircraft Door Mechanism Systems.
 - *Sep 2019 – Mar 2022*, **Master of Aeronautical Engineering**, Northwestern Polytechnical University, China. Dissertation: Design and Analysis of Reliability Test of an Electro-pneumatic Valve.
 - *Sep 2014 – Jun 2018*, **Bachelor of Safety Engineering**, Northwestern Polytechnical University, China. Dissertation: Qualitative Reliability Analysis of an Aircraft Cabin Door Lock System.
+
+<span class='anchor' id='conferences'></span>
 
 # 🎤 Conferences & Talks
 {: .tidy-list}
